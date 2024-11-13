@@ -1,5 +1,5 @@
 import streamlit as st
 
 
-st.select_slider("Grau de Satisfação", [0,100])
+st.select_slider("Grau de Satisfação", [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100])
 
