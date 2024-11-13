@@ -10,3 +10,4 @@ st.latex(r''' a+a r^1+a r^2+a r^3 ''')
 
 
 st.select_slider("Grau de Satisfação", 0,100)
+
